@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "8",
+      "title": "json-server 8",
+      "body": "typicode"
+    },
+    {
+      "id": "9",
+      "title": "444",
+      "body": "typicode"
+    },
+    {
+      "id": "10",
+      "title": "json-server 10",
+      "body": "typicode"
+    },
+    {
+      "id": "c6e5",
+      "title": "44444",
+      "body": "44444"
+    },
+    {
+      "id": "7ca6",
+      "title": "rrrr",
+      "body": "rrrr"
+    },
+    {
+      "id": "df50",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "8793",
+      "title": "енененен",
+      "body": "енененен"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
